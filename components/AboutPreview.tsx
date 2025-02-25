@@ -28,13 +28,13 @@ export default function AboutPreview() {
           <div className="md:w-1/2">
             <h2 className="text-3xl font-bold mb-6 text-gradient">About FitnessPro</h2>
             <p className="text-lg mb-6 text-gray-300">
-              At FitnessPro, we're dedicated to helping you achieve your fitness goals. Our team of experienced trainers
+              At FitnessPro, we&apos;re dedicated to helping you achieve your fitness goals. Our team of experienced trainers
               combines cutting-edge workout techniques with personalized nutrition plans to transform your body and
               boost your confidence.
             </p>
             <p className="text-lg mb-6 text-gray-300">
-              Whether you're looking to lose weight, build muscle, or improve your overall health, we're here to guide
-              you every step of the way. Let's work together to unlock your full potential and create lasting change in
+              Whether you&apos;re looking to lose weight, build muscle, or improve your overall health, we&apos;re here to guide
+              you every step of the way. Let&apos;s work together to unlock your full potential and create lasting change in
               your life.
             </p>
             <Link href="/about">

@@ -25,13 +25,13 @@ export default function AboutSection() {
           <div className="md:w-1/2 md:pl-8">
             <h2 className="text-3xl font-bold mb-4 text-gradient">About Me</h2>
             <p className="text-lg mb-4">
-              As a dedicated personal trainer with over 10 years of experience, I'm committed to helping you achieve
+              As a dedicated personal trainer with over 10 years of experience, I&apos;m committed to helping you achieve
               your fitness goals. My approach combines cutting-edge workout techniques with personalized nutrition plans
               to transform your body and boost your confidence.
             </p>
             <p className="text-lg mb-4">
-              Whether you're looking to lose weight, build muscle, or improve your overall health, I'm here to guide you
-              every step of the way. Let's work together to unlock your full potential and create lasting change in your
+              Whether you&apos;re looking to lose weight, build muscle, or improve your overall health, I&apos;m here to guide you
+              every step of the way. Let&apos;s work together to unlock your full potential and create lasting change in your
               life.
             </p>
             <motion.button className="glow-button" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
