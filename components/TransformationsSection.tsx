@@ -12,19 +12,19 @@ export default function TransformationsSection() {
     {
       before: "https://images.unsplash.com/photo-1573879541250-58ae8b322b40?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       after: "https://images.unsplash.com/photo-1704223523321-7b0b44a1a0b9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGJvZHlidWlsZGluZyUyMG1hbGV8ZW58MHx8MHx8fDA%3D",
-      title: "John&apos;s 12-Week Transformation",
+      title: "John's 12-Week Transformation",
       description: "Lost 30 lbs and gained muscle",
     },
     {
       before: "https://plus.unsplash.com/premium_photo-1664884165084-b538fc44bed4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       after: "https://plus.unsplash.com/premium_photo-1674059550127-91a5aa9d1195?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Sarah&apos;s Fitness Journey",
+      title: "Sarah's Fitness Journey",
       description: "Gained strength and confidence",
     },
     {
       before: "https://images.unsplash.com/photo-1484515991647-c5760fcecfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fG5vcm1hbCUyMG1hbnxlbnwwfHwwfHx8MA%3D%3D",
       after: "https://images.unsplash.com/photo-1708011087528-e287b6ec6628?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ0fHxib2R5YnVpbGRpbmclMjBtYWxlfGVufDB8fDB8fHww",
-      title: "Mike&apos;s Amazing Progress",
+      title: "Mike's Amazing Progress",
       description: "Complete body transformation",
     },
   ]

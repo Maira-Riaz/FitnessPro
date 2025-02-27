@@ -10,7 +10,7 @@ export default function Philosophy() {
               you achieve sustainable results.
             </p>
             <p className="text-lg text-gray-300">
-              We&apos;re committed to creating a supportive and motivating environment where you can push your limits, overcome
+              We're committed to creating a supportive and motivating environment where you can push your limits, overcome
               obstacles, and become the best version of yourself.
             </p>
           </div>
